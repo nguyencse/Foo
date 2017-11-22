@@ -1,4 +1,4 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+import { AppRegistry } from 'react-native'
+import Gallery from './src/containers/gallery'
 
-AppRegistry.registerComponent('Foo', () => App);
+AppRegistry.registerComponent('Foo', () => Gallery)
